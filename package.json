@@ -1,0 +1,15 @@
+{
+  "name": "reckon2",
+  "version": "1.0.0",
+  "description": "reconciliation code",
+  "main": "recKon.js",
+  "scripts": {
+    "test": "reckon()"
+  },
+  "author": "eazzyLEE",
+  "license": "MIT",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "json2csv": "^4.3.0"
+  }
+}
